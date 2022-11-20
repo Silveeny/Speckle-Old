@@ -1,0 +1,14 @@
+# directories
+packages/
+.vs/
+bin/
+obj/
+node_modules/
+Release/
+Debug/
+dist/
+
+# files
+*.user
+*.rhi
+cloc_output.txt
